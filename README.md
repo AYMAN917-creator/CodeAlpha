@@ -16,7 +16,7 @@ A professional network packet sniffer developed during my internship at **CodeAl
 1. Install Scapy: `pip install scapy`
 2. Run as Administrator: `python sniffer.py`
 
-###############################################################################################################
+#########################################################################################
 
 import sys
 from scapy.all import sniff, IP, TCP, UDP, ICMP, Raw
